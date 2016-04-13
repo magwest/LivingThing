@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LivingThing</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_video">Plant Live</string>
+    <string name="title_activity_charts">Charts</string>
+    <string name="sync_account_type">livingthing.example.com</string>
+    <string name="content_authority">com.example.magnus.livingthing</string>
+
+    <!-- Keys for stored preferences -->
+    <string name="pref_too_much">TOO_MUCH</string>
+    <string name="pref_wet">WET</string>
+    <string name="pref_good">GOOD</string>
+    <string name="pref_dry">DRY</string>
+    <string name="pref_very_dry">VERY_DRY</string>
+    <string name="pref_dry_notified">DRY_NOTIFIED</string>
+    <string name="pref_very_dry_notified">VERY_DRY_NOTIFIED</string>
+    <string name="pref_raspberry_pi_url">RASPBERRY_SERVER</string>
+    <string name="pref_raspberry_pi_url_default">example.com</string>
+</resources>

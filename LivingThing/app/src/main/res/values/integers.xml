@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="dry_default">780</integer>
+    <integer name="very_dry_default">720</integer>
+    <integer name="wet_default">840</integer>
+    <integer name="very_wet_default">900</integer>
+
+
+</resources>

@@ -1,0 +1,4 @@
+requests == 2.9.1
+Flask == 0.10.1
+picamera == 1.10
+spidev == 3.2
