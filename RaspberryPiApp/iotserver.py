@@ -126,6 +126,7 @@ def sensordata():
 	# guarantee the timing of calls to read the sensor).  
 	# If this happens raise 500 internal server error
 	if moisture is not None  and light is not None and humidity is not None and temperature is not None:
+		light = int(float(light)/1023*100)
 		response = {
 			'soil moisture' : moisture,
 			'light' : light,
