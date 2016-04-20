@@ -16,3 +16,6 @@ Soil Moisture sensor FC 28<br />
 Photo resistor<br />
 MCP3008 AD converter<br />
 Raspberry pi camera module<br />
+
+
+![alt tag](https://raw.githubusercontent.com/magwest/LivingThing/master/Breadboard.png)
